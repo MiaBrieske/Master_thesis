@@ -1,6 +1,6 @@
 # TF-TG correlation across biological domains (master thesis)
 
-<img width="827" height="900" alt="Flow_chart_2" src="https://github.com/user-attachments/assets/c363c726-57be-426a-951c-1bf595fcf7df" />
+<img width="827" height="900" alt="Flow_chart_2" src="https://github.com/user-attachments/assets/181c5a48-5a91-43da-9984-9affa1eb375c" />
 
 
 ## Baits_bHLH
