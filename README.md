@@ -3,7 +3,7 @@
 ## Baits_bHLH:
 
 
-
+Creating baits files for the bHLH-Annotator for the domains bacteria, fungi and animals. 
 ```
 Usage:
 
