@@ -3,7 +3,7 @@
 <img width="827" height="900" alt="Flow_chart_2" src="https://github.com/user-attachments/assets/c363c726-57be-426a-951c-1bf595fcf7df" />
 
 
-## Baits_bHLH:
+## Baits_bHLH
 
 
 Creating baits files for the bHLH-Annotator for the domains bacteria, fungi and animals. 
@@ -31,7 +31,7 @@ Baits files for fungi in Excel
 
 
 
-## Header_correction:
+## Header_correction
 
 
 
