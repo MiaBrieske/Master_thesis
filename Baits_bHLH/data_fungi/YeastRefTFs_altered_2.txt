@@ -1,0 +1,127 @@
+ABF1	YKL112W		possible chromatin-reorganizing activity	DNA-binding
+ACA1	YER045C		important for carbon source utilization	ATF/CREB / basic leucine zipper (bZIP)
+ACE2	YLR131C		required for septum destruction after cytokinesis	
+ADR1	YDR216W		required for transcription of the glucose-repressed gene ADH2, of peroxisomal protein genes, and of genes required for ethanol, glycerol, and fatty acid utilization	zinc finger 
+AFT1	YGL071W		involved in iron utilization and homeostasis	
+AFT2	YPL202C		Iron-regulated transcriptional activator	iron regulated
+ARG80	YMR042W		involved in regulating arginine-responsive genes	
+ARG81	YML099C		involved in arginine-responsive genes	zinc finger
+ARR1	YPR199C		required for transcription of genes involved in resistance to arsenic compounds	bZIP
+ASH1	YKL185W		inhibitor of HO transcription	zinc finger
+AZF1	YOR113W		involved in diauxic shift	zinc finger
+BAS1	YKR099W		Myb-related transcription factor	
+CAD1	YDR423C		transcriptional activator	bZIP (AP-1-like basic leucine zipper)
+CAT8	YMR280C		transcriptional activator	zinc cluster
+CBF1	YJR060W		affects nucleosome positioning at this motif	bHLH
+CHA4	YLR098C		transcriptional activator	DNA-binding / zinc finger
+CIN5	YOR028C		mediates pleiotropic drug resistance and salt tolerance	bZIP / yAP-1
+COM2	YER130C		binds IME1 Upstream Activation Signal (UAS)ru; COM2 transcription is regulated by Haa1p, Sok2p and Zap1p transcriptional activators; may bind the IME1 promoter under all growth conditions to negatively regulate its transcription in the absence of a positive regulator that binds more effectively; repressor activity may depend on phosphorylation by PKA	
+CRZ1	YNL027W		activates transcription of stress response genes	
+CST6	YIL036W		involved in stress-responsive regulatory network	bZIP / ATF/CREB
+CUP2	YGL166W		activates transcription of the metallothionein genes CUP1-1 and CUP1-2 in response to elevated copper concentrations	Copper-binding
+DAL80	YKR034W		Negative regulator of genes in multiple nitrogen degradation pathways	
+DAL81	YIR023W		Positive regulator of genes in multiple nitrogen degradation pathways	
+DAL82	YNL314W		Positive regulator of allophanate inducible genes	
+ECM22	YLR228C		Sterol regulatory element binding protein	Zn(2)-Cys(6) binuclear cluster
+ERT1	YBR239C		involved in regulation of gluconeogenesis and fermentable carbon utilization	zinc cluster
+FKH1	YIL131C		regulates transcription elongation, chromatin silencing at mating loci, expression of G2/M phase genes	Forkhead
+FKH2	YNL068C		late G2/M phase genes	Forkhead
+FLO8	YER109C		required for flocculation, diploid filamentous growth, and haploid invasive growth	
+FZF1	YGL254W		involved in sulfite metabolism	
+GAL4	YPL248C		required for activating GAL genes	DNA-binding
+GAT1	YFL021W		Transcriptional activator of nitrogen catabolite repression genes	zinc finger
+GCN4	YEL009C		transcriptional activator of amino acid biosynthetic genes	bZIP 
+GCR1	YPL075W		activator of genes involved in glycolysis	DNA-binding
+GCR2	YNL199C		Transcriptional activator of genes involved in glycolysis	
+GIS1	YDR096W		Histone demethylase and transcription factor	
+GLN3	YER040W		Transcriptional activator in nitrogen catabolite repression system	
+GSM1	YJL103C		unknown	zinc cluster
+GZF3	YJL110C		negatively regulates nitrogen catabolic gene expression	zinc finger
+HAA1	YPR008W		Transcriptional activator involved in adaptation to weak acid stress	
+HAC1	YFL031W		regulates the unfolded protein response, via UPRE binding, and membrane biogenesis	bZIP
+HAP1	YLR256W		involved in the complex regulation of gene expression in response to levels of heme and oxygen	zinc finger
+HAP2	YGL237C		SGD / YEASTRACT / KEGG	complex is heme-activated and glucose-repressed
+HAP3	YBL021C		Subunit of the Hap2p/3p/4p/5p CCAAT-binding complex	
+HAP4	YKL109W		transcriptional activator and global regulator of respiratory gene expression	
+HAP5	YOR358W		complex is heme-activated and glucose repressed	
+HCM1	YCR065W		drives S-phase activation of genes involved in chromosome segregation, spindle dynamics, budding	Forkhead
+HOT1	YMR172W		for glycerol biosynthetic genes	
+HSF1	YGL073W		activates multiple genes in response to highly diverse stresses and transient intracellular acidification	
+IME1	YJR094C		activates transcription of early meiotic genes through interaction with Ume6p	
+INO2	YDR123C		binds inositol/choline-responsive elements (ICREs), required for derepression of phospholipid biosynthetic genes in response to inositol depletion	bHLH
+INO4	YOL108C		involved in phospholipid synthesis	
+IXR1	YKL032C		Transcriptional repressor that regulates hypoxic genes during normoxia	
+KAR4	YCL055W		required for response to pheromones	
+LEU3	YLR451W		repressor and activator	zinc knuckle
+LYS14	YDR034C		Transcriptional activator involved in regulating lysine biosynthesis	
+MAC1	YMR021C		involved in regulation of genes required for high affinity copper transport	copper sensing
+MBP1	YDL056W		SGD / YEASTRACT / KEGG	involved in regulation of cell cycle progression from G1 to S phase
+MCM1	YMR043W		involved in cell-type-specific transcription and pheromone response	
+MET31	YPL038W		targets strong transcriptional activator Met4p to promoters of sulfur metabolic genes	zinc finger / DNA-binding
+MET32	YDR253C		involved in transcriptional regulation of the methionine biosynthetic genes	zinc finger / DNA-binding
+MET4	YNL103W		Leucine-zipper transcriptional activator	bZIP
+MIG1	YGL035C		involved in glucose repression	
+MIG2	YGL209W		transcriptional repressor	zinc finger
+MIG3	YER028C		partially nonfunctional in S288C strains but has a major role in catabolite repression and ethanol response in some other strains; involved in response to toxic agents	
+MOT2	YER068W		CCR4-NOT has roles in transcription regulation, mRNA degradation, and post-transcriptional modifications	
+MOT3	YMR070W		Transcriptional repressor, activator	
+MSN2	YMR037C		Stress-responsive transcriptional activator	
+MSN4	YKL062W		Stress-responsive transcriptional activator	
+MSS11	YMR164C		involved in regulation of invasive growth and starch degradation	
+NDT80	YHR124W		Meiosis-specific transcription factor	
+NRG1	YDR043C		Transcriptional repressor	
+NRG2	YBR066C		Transcriptional repressor	
+OAF1	YAL051W		Oleate-activated transcription factor	
+PDR1	YGL013C		regulates the pleiotropic drug response; zinc cluster protein that is a master regulator involved in recruiting other zinc cluster proteins to pleiotropic drug response elements (PDREs) to fine tune the regulation of multidrug resistance genes	zinc cluster
+PDR3	YBL005W		Transcriptional activator of the pleiotropic drug resistance network	
+PDR8	YLR266C		targets include ATP-binding cassette (ABC) transporters, major facilitator superfamily transporters, and other genes involved in the pleiotropic drug resistance (PDR) phenomenon	
+PHO2	YDL106C		regulatory targets include genes involved in phosphate metabolism	Homeobox
+PHO4	YFR034C		activates transcription cooperatively with Pho2p in response to phosphate limitation	bHLH / myc-family
+PIP2	YOR363C		involved in beta-oxidation of fatty acids, peroxisome organization and biogenesis	
+PPR1	YLR014C		positively regulates transcription of URA1, URA3, URA4, and URA10, which are involved in de novo pyrimidine biosynthesis, in response to pyrimidine starvation	zinc finger
+PUT3	YKL015W		Transcriptional activator	Zn(2)-Cys(6) binuclear cluster
+RAP1	YNL216W		binds many loci	DNA-binding
+RDS1	YCR106W		involved in conferring resistance to cycloheximide	zinc cluster
+RDS2	YPL133C		involved in regulating gluconeogenesis	zinc cluster
+REB1	YBR049C		RNA polymerase I enhancer binding protein	
+RFX1	YLR176C		Major transcriptional repressor of DNA-damage-regulated genes	
+RGT1	YKL038W		Glucose-responsive transcription factor	
+RIM101	YHL027W		transcriptional repressor	Cys2His2 zinc-finger
+RLM1	YPL089C		component of the protein kinase C-mediated MAP kinase pathway involved in the maintenance of cell integrity	MADS-box
+RME1	YGR044C		involved in control of meiosis	zinc finger
+ROF1	YHR177W		binds DNA in vitro	
+ROX1	YPR065W		Heme-dependent repressor of hypoxic genes	
+RPH1	YER169W		associates with actively transcribed regions and promotes elongation	JmjC
+RPN4	YDL020C		stimulates expression of proteasome genes; Rpn4p levels are in turn regulated by the 26S proteasome in a negative feedback control mechanism; RPN4 is transcriptionally regulated by various stress responses	
+RTG1	YOL067C		involved in interorganelle communication	bHLH
+RTG3	YBL103C		for retrograde (RTG) and TOR pathways	bHLH / ZIP
+SFL1	YOR140W		Transcriptional repressor and activator	
+SIP4	YJL089W		C6 zinc cluster transcriptional activator	zinc cluster
+SKN7	YHR206W		required for optimal induction of heat-shock genes in response to oxidative stress	
+SKO1	YNL167C		forms a complex with Tup1p and Cyc8p	bZIP / ATF/CREB
+SMP1	YBR182C		involved in osmotic stress response	MADS-box
+STB4	YMR019W		computational analysis suggests a role in regulation of expression of genes encoding transporters	
+STB5	YHR178W		involved in regulating multidrug resistance and oxidative stress response	zinc finger
+STE12	YHR084W		activates genes involved in mating or pseudohyphal/invasive growth pathways	
+STP1	YDR463W		contains a N-terminal regulatory motif (RI) that acts as a cytoplasmic retention determinant and as an Asi dependent degron in the nucleus	
+STP2	YHR006W		activates transcription of amino acid permease genes	
+SUM1	YDR310C		Transcriptional repressor that regulates middle-sporulation genes	
+SUT1	YGL162W		positively regulates sterol uptake genes under anaerobic conditions	Zn(II)2Cys6
+SWI4	YER111C		transcriptional activator that in concert with MBF (Mbp1-Swi6p) regulates late G1-specific transcription of targets including cyclins and genes required for DNA synthesis and repair	DNA-binding
+SWI5	YDR146C		SGD / YEASTRACT / KEGG	recruits Mediator and Swi/Snf complexes
+TDA9	YML081W		regulates acetate production	
+TEA1	YOR337W		Ty1 enhancer activator involved in Ty enhancer-mediated transcription	zinc cluster
+TEC1	YBR083W		Transcription factor targeting filamentation genes and Ty1 expression	DNA-binding
+TYE7	YOR344C		binds E-boxes of glycolytic genes and contributes to their activation	bHLH
+UGA3	YDL170W		Transcriptional activator for GABA-dependent induction of GABA genes	zinc finger transcription factor of the Zn(2)-Cys(6) binuclear cluster domain type
+UME6	YDR207C		key transcriptional regulator of early meiotic genes	
+UPC2	YDR213W		induces sterol biosynthetic genes, upon sterol depletion; acts as a sterol sensor, binding ergosterol in sterol rich conditions; relocates from intracellular membranes to perinuclear foci upon sterol depletion; redundant activator of filamentation with ECM22, up-regulating the expression of filamentous growth genes	Zn[2]-Cys[6] binuclear cluster
+USV1	YPL230W		mutation affects transcriptional regulation of genes involved in growth on non-fermentable carbon sources, response to salt stress and cell wall biosynthesis	C2H2 zinc finger
+WAR1	YML076C		binds to a weak acid response element to induce transcription of PDR12 and FUN34, encoding an acid transporter and a putative ammonia transporter, respectively	Homodimeric Zn2Cys6 zinc finger
+XBP1	YIL101C		Transcriptional repressor	Swi4p/Mbp1p 
+YAP1	YML007W		required for oxidative stress tolerance	bZIP
+YAP3	YHL009C			bZIP
+YAP5	YIR018W		senses high-iron conditions via two Fe/S clusters bound to its activator domain	bZIP / iron sensing
+YRR1	YOR162C		activates genes involved in multidrug resistance	Zn2-Cys6 zinc-finger
+ZAP1	YJL056C		represses other genes in low zinc; regulates its own transcription	zinc regulated
+ZNF1	YFL052W		regulates respiratory growth	zinc cluster
