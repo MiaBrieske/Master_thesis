@@ -1,7 +1,6 @@
 # TF-TG correlation across biological domains 
 
-<img width="827" height="900" alt="Flow_chart_2" src="https://github.com/user-attachments/assets/181c5a48-5a91-43da-9984-9affa1eb375c" />
-
+<img width="729" height="803" alt="Flow_chart_2" src="https://github.com/user-attachments/assets/7d4663e0-ad77-4a29-9b63-464f8da24088" />
 
 ## Baits_bHLH
 
@@ -332,7 +331,6 @@ python3 transcript_to_gene_final.py
 ```
 
 ## Spearman_correlation
-
 
 
 Calculation of Spearman correlation coefficients.
