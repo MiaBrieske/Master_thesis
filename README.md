@@ -1,4 +1,4 @@
-# TF-TG correlation across biological domains (master thesis)
+# TF-TG correlation across biological domains 
 
 <img width="827" height="900" alt="Flow_chart_2" src="https://github.com/user-attachments/assets/181c5a48-5a91-43da-9984-9affa1eb375c" />
 
