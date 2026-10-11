@@ -7,6 +7,7 @@ Scripts from my master thesis for identifying bHLH and MYB transcription factors
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Input data](#input-data)
+- [Data sources](#data-sources)
 - [Running the scripts](#running-the-scripts)
 - [1. Bait files](#1-bait-files)
 - [2. Header correction](#2-header-correction)
@@ -56,6 +57,26 @@ One file of each type per species:
 - **Pep files:** protein sequences (FASTA). Input for the bHLH-Annotator, the MYB-Annotator and OrthoFinder.
 - **CDS files:** coding sequences (FASTA, NCBI headers with `[gene=...]` / `[locus_tag=...]`). Used to map gene names to transcript IDs.
 - **Count tables:** TPM expression values. Used for the correlation.
+
+| Organism group | TF list | TF–TG pairs |
+|---|---|---|
+| Plants | Reference sets of the bHLH- and MYB-Annotator | Compiled from the literature (references in the thesis) |
+| Fungi | YEASTRACT+ | YEASTRACT+ |
+| Bacteria | RegulonDB | RegulonDB |
+| Animals | AnimalTFDB | TFLink |
+
+The data are not included in this repository. Please cite the original resources when using them:
+
+- **AnimalTFDB 4.0:** Shen, W.-K., Chen, S.-Y., Gan, Z.-Q., Zhang, Y.-Z., Yue, T., Chen, M.-M., Xue, Y., Hu, H., & Guo, A.-Y. (2023). AnimalTFDB 4.0: A comprehensive animal transcription factor database updated with variation and expression annotations. Nucleic Acids Research, 51(D1), D39–D45. [doi:10.1093/nar/gkac907](https://doi.org/10.1093/nar/gkac907)
+- **TFLink:** Liska, O., Bohár, B., Hidas, A., Korcsmáros, T., Papp, B., Fazekas, D., & Ari, E. (2022). TFLink: An integrated gateway to access transcription factor–target gene interactions for multiple species. Database, 2022, baac083. [doi:10.1093/database/baac083](https://doi.org/10.1093/database/baac083)
+- **YEASTRACT+:** Teixeira, M. C., Viana, R., Palma, M., Oliveira, J., Galocha, M., Mota, M. N., Couceiro, D., Pereira, M. G., Antunes, M., Costa, I. V., Pais, P., Parada, C., Chaouiya, C., Sá-Correia, I., & Monteiro, P. T. (2023). YEASTRACT+: A portal for the exploitation of global transcription regulation and metabolic model data in yeast biotechnology and pathogenesis. Nucleic Acids Research, 51(D1), D785–D791. [doi:10.1093/nar/gkac1041](https://doi.org/10.1093/nar/gkac1041)
+- **RegulonDB v12.0:** Salgado, H., Gama-Castro, S., Lara, P., Mejia-Almonte, C., Alarcón-Carranza, G., López-Almazo, A. G., Betancourt-Figueroa, F., Peña-Loredo, P., Alquicira-Hernández, S., Ledezma-Tejeida, D., Arizmendi-Zagal, L., Mendez-Hernandez, F., Diaz-Gomez, A. K., Ochoa-Praxedis, E., Muñiz-Rascado, L. J., García-Sotelo, J. S., Flores-Gallegos, F. A., Gómez, L., Bonavides-Martínez, C., … Collado-Vides, J. (2024). RegulonDB v12.0: A comprehensive resource of transcriptional regulation in E. coli K-12. Nucleic Acids Research, 52(D1), D255–D264. [doi:10.1093/nar/gkad1072](https://doi.org/10.1093/nar/gkad1072)
+
+**External tools:**
+
+- **bHLH-Annotator:** Thoben, C., & Pucker, B. (2023). Automatic annotation of the bHLH gene family in plants. BMC Genomics, 24(1), 780. [doi:10.1186/s12864-023-09877-](https://doi.org/10.1186/s12864-023-09877-2)
+- **MYB-Annotator:** Pucker, B. (2022). Automatic identification and annotation of MYB gene family members in plants. BMC Genomics, 23(1), 220. [doi:10.1186/s12864-022-08452-5](https://doi.org/10.1186/s12864-022-08452-5)
+- **OrthoFinder:** Emms, D. M., Liu, Y., Belcher, L., Holmes, J., & Kelly, S. (2025). OrthoFinder: Scalable phylogenetic orthology inference for comparative genomics. Bioinformatics. [doi:10.1101/2025.07.15.664860](https://doi.org/10.1101/2025.07.15.664860)
 
 ## Running the scripts
 
