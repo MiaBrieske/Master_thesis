@@ -48,7 +48,7 @@ conda activate tf_pipeline
 
 - [bHLH-Annotator](https://github.com/bpucker/bHLH_annotator)
 - [MYB-Annotator](https://github.com/bpucker/MYB_annotator)
-- [OrthoFinder](https://github.com/davidemms/OrthoFinder)
+- [OrthoFinder](https://github.com/davidemms/OrthoFinder/OrthoFinder)
 
 ## Input data
 
