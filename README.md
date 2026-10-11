@@ -58,6 +58,8 @@ One file of each type per species:
 - **CDS files:** coding sequences (FASTA, NCBI headers with `[gene=...]` / `[locus_tag=...]`). Used to map gene names to transcript IDs.
 - **Count tables:** TPM expression values. Used for the correlation.
 
+## Data sources
+
 | Organism group | TF list | TF–TG pairs |
 |---|---|---|
 | Plants | Reference sets of the bHLH- and MYB-Annotator | Compiled from the literature (references in the thesis) |
