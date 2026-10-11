@@ -18,27 +18,7 @@ Scripts from my master thesis for identifying bHLH and MYB transcription factors
 
 ## Overview
 
-```mermaid
-flowchart TD
-    PEP[Pep files] --> HC[Header correction]
-    HC --> BHLH[bHLH-Annotator]
-    BAITS[Bait files] --> BHLH
-    PEP --> MYB[MYB-Annotator]
-    PEP --> OF[OrthoFinder]
-    BHLH --> BM[bHLH orthologue matrix]
-    MYB --> MM[MYB orthologue matrix]
-    BM --> FILT[Filter TF orthologues]
-    MM --> FILT
-    OF --> FILT
-    FILT --> LIST[TF–TG pair list]
-    CDS[CDS files] --> LIST
-    OF --> LIST
-    LIST --> SP[Spearman correlation]
-    COUNTS[Count tables] --> SP
-    SP --> BAR[Bar plots]
-    SP --> VP[Violin plots per pair]
-    VP --> VD[Violin plots per domain]
-```
+<img width="827" height="900" alt="Flow_chart_2_github" src="https://github.com/user-attachments/assets/8ba23729-c6cc-4ffa-a547-1aabb41f3322" />
 
 The bHLH-Annotator is used for all organism groups, the MYB-Annotator for plants only. Some steps are done in Excel; these are marked below.
 
