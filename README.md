@@ -332,6 +332,19 @@ The TF–TG list comes from Excel (bacteria, fungi) or from `find_TGs_matching_T
 
 Before the correlation is calculated, scatter plots of TF against TG expression in the reference species are used to decide between Pearson and Spearman correlation. Pearson measures linear relationships and assumes roughly normally distributed values without strong outliers. Spearman uses ranks, so it also captures monotonic but non-linear relationships and is robust against outliers and skewed values, as is typical for TPM data.
 
+```bash
+python3 correlation_scatter_plot.py \
+    --orthologe_TF <DIRECTORY TO THE TF ORTHOLOGE FILES (z.B. MYB)> \
+    [--orthologe_TF_2 <OPTIONAL: ZWEITES TF ORTHOLOGE DIRECTORY, z.B. bHLH>] \
+    --species <FILE WITH SPECIES FOR ANALYSIS> \
+    --TF_TG_list <LIST WITH TF AND RELATED TG> \
+	--orthoFinder_file <SINGLE ORTHOFINDER RESULTS FILE> \
+	--counts_dir <DIRECTORY TO COUNTTABLES> \
+	--ref <REFERENCE SPECIES NAME e.g. Arabidopsis_thaliana> \
+	--out_dir <OUTPUT DIRECTORY> \
+    [--plot] <OPTIONAL: erstellt zusätzlich Scatter-Plots für die Referenz-Spezies>
+```
+
 ## 8. Spearman correlation
 
 For every species, the script collects the TPM values of the TF orthologues and TG orthologues, and calculates the Spearman correlation coefficient for each combination of TF transcript and TG transcript.
