@@ -204,7 +204,7 @@ Counts for each species how many different reference TFs have an orthologue, and
 python3 filter_num_bhlh.py \
     --in <DIRECTORY WITH bHLH-ANNOTATOR RESULTS> \
     --out <OUTPUT FILE> \
-    [--lower_limit <MINIMUM; default: 1>] \
+    [--lower_limit <MINIMUM; default: 0>] \
     [--upper_limit <MAXIMUM; default: no limit>]
 ```
 
@@ -212,7 +212,7 @@ python3 filter_num_bhlh.py \
 python3 filter_num_myb.py \
     --in <DIRECTORY WITH MYB-ANNOTATOR RESULTS> \
     --out <OUTPUT FILE> \
-    [--lower_limit <MINIMUM; default: 1>] \
+    [--lower_limit <MINIMUM; default: 0>] \
     [--upper_limit <MAXIMUM; default: no limit>]
 ```
 
