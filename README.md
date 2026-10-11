@@ -336,13 +336,13 @@ Before the correlation is calculated, scatter plots of TF against TG expression 
 python3 correlation_scatter_plot.py \
     --orthologe_TF <DIRECTORY TO THE TF ORTHOLOGE FILES (z.B. MYB)> \
     [--orthologe_TF_2 <OPTIONAL: ZWEITES TF ORTHOLOGE DIRECTORY, z.B. bHLH>] \
-    --species <FILE WITH SPECIES FOR ANALYSIS> \
-    --TF_TG_list <LIST WITH TF AND RELATED TG> \
+	--species <FILE WITH SPECIES FOR ANALYSIS> \
+	--TF_TG_list <LIST WITH TF AND RELATED TG> \
 	--orthoFinder_file <SINGLE ORTHOFINDER RESULTS FILE> \
 	--counts_dir <DIRECTORY TO COUNTTABLES> \
 	--ref <REFERENCE SPECIES NAME e.g. Arabidopsis_thaliana> \
 	--out_dir <OUTPUT DIRECTORY> \
-    [--plot] <OPTIONAL: erstellt zusätzlich Scatter-Plots für die Referenz-Spezies>
+	[--plot] <OPTIONAL: erstellt zusätzlich Scatter-Plots für die Referenz-Spezies>
 ```
 
 ## 8. Spearman correlation
