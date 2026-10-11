@@ -1,6 +1,6 @@
 # TF annotation and TF–TG correlation pipeline
 
-Scripts from my master thesis for identifying bHLH and MYB transcription factors (TFs) across species of four organism groups (plants, fungi, bacteria, animals) and for correlating the expression of TF orthologues with the expression of their target genes (TGs).
+Scripts from my master thesis for identifying bHLH and MYB transcription factors (TFs) across species of four organism groups (plants, fungi, bacteria, animals) and for correlating the expression of TF orthologues with the expression of their target gene (TGs) orthogroup members across species and domains.
 
 ## Contents
 
@@ -23,7 +23,7 @@ Scripts from my master thesis for identifying bHLH and MYB transcription factors
 
 <img width="827" height="900" alt="Flow_chart_2_github" src="https://github.com/user-attachments/assets/fcc94b62-6869-4fee-93b5-544cf9a694cc" />
 
-The bHLH-Annotator is used for all organism groups, the MYB-Annotator for plants only. bHLH-Annotator, MYB-Annotator and OrthoFinder are external tools and not part of this repository. Some steps are done in Excel; these are marked below.
+The bHLH-Annotator is used for all organism groups, the MYB-Annotator for plants only. bHLH-Annotator, MYB-Annotator and OrthoFinder are external tools and not part of this repository. Some steps are done in Excel, these are marked below.
 
 ## Requirements
 
